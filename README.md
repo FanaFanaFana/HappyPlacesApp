@@ -28,13 +28,6 @@ An Android app built with Kotlin that allows users to save their favorite places
 
 ---
 
-## 🧪 Extra Features (if implemented)
-
-- 🔍 Search through saved places
-- 📌 Categorize places (e.g., Food, Nature, Culture)
-- 🧭 Navigate to a saved place using Google Maps
-
----
 
 ## 🧰 Tech Stack
 
@@ -50,4 +43,4 @@ An Android app built with Kotlin that allows users to save their favorite places
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/happy-places.git
+   git clone https://github.com/FanaFanaFana/happy-places.git
